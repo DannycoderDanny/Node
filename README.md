@@ -1,4 +1,4 @@
-# Step-by-Step Guide to Installing Node.js, Postman, and MongoDB on Windows
+# Step-by-Step Guide for Installing Node.js, Postman, and MongoDB on Windows
 
 This guide will walk you through the process of downloading and setting up Node.js, Postman, and MongoDB on your Windows system.
 
